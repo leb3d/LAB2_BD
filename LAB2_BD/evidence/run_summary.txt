@@ -1,0 +1,12 @@
+Java 21 compilation: PASS
+All 8 search commands: PASS (exact output versus independent file-based oracle)
+CRUD+TXT+JSON+XML: PASS
+Original official files preserved: PASS
+S: SCHOENECKER: 45 records; median 18.496ms
+S: SCHOENECKER B: 1 records; median 10.607ms
+T: FALKER: 458 records; median 11.367ms
+C: 104: 38 records; median 9.544ms
+B: 51: 68 records; median 15.000ms
+G: 3: 72 records; median 9.576ms
+C: 104 T: 47 records; median 9.344ms
+G: 3 T: 127 records; median 13.048ms
